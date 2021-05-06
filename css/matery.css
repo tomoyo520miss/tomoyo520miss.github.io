@@ -1892,7 +1892,7 @@ footer .copy-right {
     white-space: pre-wrap;
 }
 
-/* 回到顶部按钮样式
+/* 回到顶部按钮样式 */
 .top-scroll {
     display: none;
     position: fixed;
@@ -1912,7 +1912,7 @@ footer .copy-right {
 .top-scroll .btn-floating i {
     line-height: 48px;
     font-size: 1.8rem;
-} */
+}
 
 @media screen and (min-width: 368px) and (max-width: 767px) {
     .info-break-policy {
